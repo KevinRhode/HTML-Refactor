@@ -39,3 +39,5 @@ Bootcamp Spot on:
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet
+
+https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
