@@ -1,4 +1,4 @@
-# Module 01 Challenge: Refactoring
+# HTML Refactor
 
 To reinforce the content and lessons in Module 1, Git, HTML, and CSS. To Refactor the users website for search engines and screen readers through semantic elements, and good naming conventions. This solves the marketing agencies issue with their own site being optimized for earch engines. I learned a better handling on CSS selectors and their names. HTML Semantic elements use in optimiztion. Finally how to write a professional README.
 
